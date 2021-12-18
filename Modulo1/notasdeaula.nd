@@ -1,5 +1,7 @@
 Notas de aula referentes ao módulo 1 do curso git github da podetencia femninina
+primeiras Notas
 
-
-### nota 1
+#Adcionar todos os arquivos na esteira de comitte
+git add nome do arquivo
+git add . adiciona todos os arquivos 
 
